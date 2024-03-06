@@ -2,7 +2,7 @@
 
 A dictionary in Python is a collection of key values, used to store data values like a map, which, unlike other data types holds Key-value only a single value as an element.
 
-### **Dictionary Syntax**
+### ***Dictionary Syntax***
 dict_var = {key1 : value1, key2 : value2, …..}
 
 Properties of dictionary
@@ -42,7 +42,7 @@ Time complexity: O(len(dict))
 
 Space complexity: O(n)
 
-***Accessing values of a dictionary***
+### ***Accessing values of a dictionary***
 To access a value in a dictionary, you can use square brackets [] and provide the key. If the key is not present in the dictionary, it will raise a KeyError. To avoid this, you can use the get method.
 
 my_dict = {'name':'Rose', 'age': 24}
@@ -64,7 +64,7 @@ Time complexity: O(1)
 
 Space complexity: O(1)
 
-***Modifying and adding elements***
+## ***Modifying and adding elements***
 You can add elements in a dictionary in multiple ways. One value at a time can be added to a Dictionary by defining value along with the key, for instance Dict[Key] = ‘Value’. Updating an existing value in a Dictionary can be done by using the built-in update() method.
 
 Note - If the key doesn't exist it creates a new key-value pair and if the key already exists in a dictionary it updates it's values with a new value.
@@ -95,7 +95,7 @@ Time complexity: O(1)/O(n)
 
 Space complexity: O(1)
 
-***Removing elements***
+## ***Removing elements***
 To remove a key-value pair from a dictionary, you can use the pop method or use the del keyword.
 
 Dict = {'name':'Rose','age':24, 'gender':'Female'}
@@ -114,7 +114,7 @@ Output - Female
 
 {'name': 'Rose'}
 
-***Dictionary methods***
+## ***Dictionary methods***
 dict.clear() - Remove all the elements from the dictionary
 
 dict.copy() - Returns a copy of the dictionary
@@ -162,7 +162,7 @@ Rose 24 Female
 name Rose age 24 gender Female
 
 
-***Challenge Galore***
+## ***Challenge Galore***
 Problem Statement - Write a Python program that takes a sentence and count the frequency of each unique word in the sentence.
 def word_frequency_counter(sentence):
     word_list = sentence.split()
