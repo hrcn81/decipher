@@ -2,7 +2,7 @@
 
 A dictionary in Python is a collection of key values, used to store data values like a map, which, unlike other data types holds Key-value only a single value as an element.
 
-## ***Dictionary Syntax***
+## **Dictionary Syntax**
 dict_var = {key1 : value1, key2 : value2, …..}
 
 Properties of dictionary
