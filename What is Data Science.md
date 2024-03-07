@@ -15,7 +15,7 @@ Data science is not a one-step process such that you will get to learn it in a s
 
 ---
 
-**Problem Statement:** No work start without motivation, Data science is no exception though. It’s really important to declare or formulate your problem statement very clearly and precisely. Your whole model and it’s working depend on your statement. Many scientist considers this as the main and much important step of Date Science. So make sure what’s your problem statement and how well can it add value to business or any other organization.
+***Problem Statement:*** No work start without motivation, Data science is no exception though. It’s really important to declare or formulate your problem statement very clearly and precisely. Your whole model and it’s working depend on your statement. Many scientist considers this as the main and much important step of Date Science. So make sure what’s your problem statement and how well can it add value to business or any other organization.
 
 **Data Collection:** After defining the problem statement, the next obvious step is to go in search of data that you might require for your model. You must do good research, find all that you need. Data can be in any form i.e unstructured or structured. It might be in various forms like videos, spreadsheets, coded forms, etc. You must collect all these kinds of sources.
 
