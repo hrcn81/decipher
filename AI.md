@@ -9,6 +9,8 @@ Thus, the AI systems are more generic(rather than specific), can “think” and
 
 Intelligence, as we know, is the ability to acquire and apply knowledge. Knowledge is the information acquired through experience. Experience is the knowledge gained through exposure(training). Summing the terms up, we get **artificial intelligence** as the “copy of something natural(i.e., human beings) ‘WHO’ is capable of acquiring and applying the information it has gained through exposure.” 
 
+---
+
 **Intelligence is composed of:**  
 
 - Reasoning
