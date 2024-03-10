@@ -1,6 +1,6 @@
 ## Data Preprocessing - Removing Null Value Rows
 
-```markdown
+
 
 When creating a DataFrame from a CSV file, many blank columns are imported as null values into the DataFrame, which later creates problems while operating on that DataFrame. `Pandas` `isnull()` and `notnull()` methods are used to check and manage NULL values in a DataFrame.
 
@@ -67,4 +67,3 @@ dtype: int64
 ```
 
 So, no more null values are present in any of the columns.
-```
