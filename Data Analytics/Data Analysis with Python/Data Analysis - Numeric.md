@@ -8,6 +8,7 @@ So let us see our dataset again before getting started.
 import pandas as pd
 df = pd.read_csv('googleplaystore.csv')
 df.head()
+'''
 Let's do some analysis on the Rating column.
 
 python
