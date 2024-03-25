@@ -1,0 +1,10 @@
+1,5 star,5,100
+2,Milky Bar,5,100
+3,Chocolate Cake,4,80
+4,Strawberry Ice Cream,4,90
+5,Blueberry Muffin,4,85
+6,Cheeseburger,3,70
+7,Pepperoni Pizza,4,95
+8,Chicken Salad,3,75
+9,Apple Pie,5,90
+10,Chocolate Chip Cookie,5,85
