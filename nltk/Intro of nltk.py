@@ -22,7 +22,9 @@ for word in words:
 
 '''
 2          # Number of sentences
+
 10         # Number of words
+
 Hello      # Each word on a separate line
 Geeks      # Each word on a separate line
 .          # Each word on a separate line
@@ -35,6 +37,7 @@ are        # Each word on a separate line
 doing      # Each word on a separate line
 great      # Each word on a separate line
 .          # Each word on a separate line
+
 Hello      # Each word without punctuation on a separate line
 Geeks      # Each word without punctuation on a separate line
 We         # Each word without punctuation on a separate line
